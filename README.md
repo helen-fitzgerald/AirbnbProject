@@ -20,7 +20,7 @@ sure to include any additional analyses you conducted in a GitHub repository.
 4. Analysis - includes raw visualisation files.
 
 ## Tableau Dashboard
-Visualisation available [here via Tableau Public](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Story1?publish=yes)
+Visualisation available [here via Tableau Public](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Airbnb?publish=yes)
 
 # Data Set
 [Available here via Inside Airbnb](https://insideairbnb.com/get-the-data)
