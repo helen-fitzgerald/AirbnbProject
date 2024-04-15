@@ -23,4 +23,4 @@ sure to include any additional analyses you conducted in a GitHub repository.
 Visualisation available [here via Tableau Public](https://public.tableau.com/app/profile/helen.fitzgerald/viz/AirbnbDublin_17131705106320/Story1?publish=yes)
 
 # Data Set
-[Available here via Inside Airbnb]([https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip](https://insideairbnb.com/get-the-data/))
+[Available here via Inside Airbnb]([https://insideairbnb.com/get-the-data)
