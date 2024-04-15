@@ -14,7 +14,7 @@ you discovered throughout this Achievement. Not all of your results will fit int
 sure to include any additional analyses you conducted in a GitHub repository.
 
 ## Project Contents
-1. Data - includes original and cleaned data. 
+1. Data - includes original and cleaned data (unavailable via GitHub due to size restrictions)
 2. Scripts - includes complete code for data wrangling, visualisations etc.
 3. Project Management - includes data profile and [full project brief.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/Data_Immersion_A6_Project_Brief.pdf)
 4. Analysis - includes raw visualisation files.
